@@ -16,4 +16,5 @@ xlabel('Time (s)');
 ylabel('Displacement (m)');
 title('Analytical vs Measured Solution for Initial Displacement');
 grid on;
+
 legend show;
